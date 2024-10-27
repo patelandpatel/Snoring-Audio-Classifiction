@@ -45,7 +45,7 @@ Audio files are preprocessed to create spectrograms using tools like Librosa or 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Snoring-Detection-CNN.git
+   git clone https://github.com/patelandpatel/Snoring-Detection-CNN.git
    cd Snoring-Detection-CNN
    ```
 
